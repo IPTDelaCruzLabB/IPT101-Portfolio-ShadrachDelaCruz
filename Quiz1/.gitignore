@@ -1,0 +1,8 @@
+#Node dependencies
+noode_modules/
+
+#Environment variables
+.env
+
+#Windows system files
+Thumbs.db
